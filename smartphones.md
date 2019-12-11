@@ -12,7 +12,7 @@ https://twitter.com/adolfont/status/1204014581678563328
 
 - Call
 - Text Messages
-- Communting (maps, ride-sharing, transportation timetables)
+- Commuting (maps, ride-sharing, transportation timetables)
 - Audio (songs/podcasts/books)
 - Time (calendar, alarms, chronometer and stopwatch)
 - Weather
