@@ -23,3 +23,4 @@ https://twitter.com/adolfont/status/1204014581678563328
 | App | Category | Android link |
 | --- | --- | --- |
 | White Noise Generator | White/brown noise | https://play.google.com/store/apps/details?id=net.relaxio.relaxio |
+| Brown Noise, Pink Noise and White Noise| White/brown noise | https://play.google.com/store/apps/details?id=info.vazquezsoftware.whitenoise |
