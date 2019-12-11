@@ -1,4 +1,4 @@
-# Apps
+# Activities/Apps according to Cal Newport
 
 - Call
 - Text Messages
@@ -8,7 +8,7 @@
 "Use your smartphone only for the following activities: calls, text messages, maps, and audio (songs/podcasts/books)."
 https://twitter.com/adolfont/status/1204014581678563328
 
-## Apps v2
+## My extended list of activities/apps
 
 - Call
 - Text Messages
