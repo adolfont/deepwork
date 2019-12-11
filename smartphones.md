@@ -22,4 +22,4 @@ https://twitter.com/adolfont/status/1204014581678563328
 
 | App | Category | Android link |
 | --- | --- | --- |
-| Relaxio | White/brown noise | https://play.google.com/store/apps/details?id=net.relaxio.relaxio |
+| White Noise Generator | White/brown noise | https://play.google.com/store/apps/details?id=net.relaxio.relaxio |
