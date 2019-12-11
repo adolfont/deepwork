@@ -18,6 +18,8 @@ https://twitter.com/adolfont/status/1204014581678563328
 - Weather
 - White/brown noise.
 
+### Example apps
+
 | App | Category | Android link |
 | --- | --- | --- |
-| Relaxio | White/brown noise | ??? |
+| Relaxio | White/brown noise | https://play.google.com/store/apps/details?id=net.relaxio.relaxio |
